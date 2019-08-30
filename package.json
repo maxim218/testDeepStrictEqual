@@ -1,0 +1,14 @@
+{
+  "name": "testing-simple",
+  "version": "1.0.0",
+  "description": "testing simple",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Maxim",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
